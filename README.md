@@ -3,12 +3,12 @@ This project demonstrates threat hunting in the finance sector using SocRadar fo
 
 Inline with NIST Cybersecurity Framework (CSF):
 
- Detect (DE.CM – Security Continuous Monitoring): The network is monitored to detect potential cyebrsecurity events.
  Detect (DE.AE – Anomalies and Events): Detected events are analysed to understand attack targets and malicious patterns.
+
+ Detect (DE.CM – Security Continuous Monitoring)
  
  Respond (RS.AN – Analysis): Investigating alerts and correlating threat intelligence for incident response.
  
- Identify (ID.RA – Risk Assessment): Using threat hunting results to inform risk assessments in the finance sector.
 
  
   ISO/IEC27001 Annex A:
